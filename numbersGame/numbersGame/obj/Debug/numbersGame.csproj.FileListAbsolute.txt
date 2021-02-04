@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\numbersGame\numbersGame\obj\Debug\numbersGame.csprojAssemblyReference.cache
+C:\Users\User\source\repos\numbersGame\numbersGame\obj\Debug\numbersGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\numbersGame\numbersGame\bin\Debug\numbersGame.exe.config
+C:\Users\User\source\repos\numbersGame\numbersGame\bin\Debug\numbersGame.exe
+C:\Users\User\source\repos\numbersGame\numbersGame\bin\Debug\numbersGame.pdb
+C:\Users\User\source\repos\numbersGame\numbersGame\obj\Debug\numbersGame.exe
+C:\Users\User\source\repos\numbersGame\numbersGame\obj\Debug\numbersGame.pdb
